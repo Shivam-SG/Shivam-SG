@@ -12,7 +12,4 @@
 
 📚 **Continuous Learning:** Technology never stands still, and neither do I. I'm constantly learning and staying up-to-date with the latest trends and tools in the software development and design world.
 
-📫 **Contact:** Feel free to connect with me here on GitHub or reach out via email at shivam70410@gmail.com . Let's connect and create some awesome software and designs together!
-
-
 Thanks for visiting my profile! Let's code, design, collaborate, and innovate together. 💻🎨✨
